@@ -1,0 +1,19 @@
+.size{
+    width: 300px;
+    height: 150px;
+}
+.text{
+    background-color: white;
+}
+.margin{
+    margin: 35px;
+}
+.background{
+    background-image: url(inner-parts-of-computer.webp);
+}
+.background2{
+  background-image: url(Code.jpg);
+}
+.background3{
+    background-color: black;
+}
